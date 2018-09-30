@@ -1,10 +1,10 @@
 # Site settings
-title: RavenZhao Blog
-SEOTitle: 乌鸦的博客 | RavenZhao Blog
+title: RavenZhao's Blog
+SEOTitle: 乌鸦的博客 | RavenZhao's Blog
 header-img: img/post-bg-desk.jpg
 email: zhaorong0127@gmail.com
 description: "就算没有鸽子一定有乌鸦……"
-keyword: "RZ, RavenZhao Blog, 乌鸦的博客, 数据科学, 机器学习, Python"
+keyword: "RZ, RavenZhao Blog, 乌鸦的博客, 数据科学, 机器学习, Python, 历史, 笔记"
 url: "http://ravenzhao.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ravenzhao/ravenzhao.github.io" # you code repository
@@ -18,11 +18,11 @@ sidebar-avatar: /img/headshot.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+# weibo_username:     
 zhihu_username:     ravenzhao
 github_username:    ravenzhao
 facebook_username:  ravenzhao
-#jianshu_username:   e71990ada2fd
+#jianshu_username:   
 twitter_username:   ravenzhao
 
 
