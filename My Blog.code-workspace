@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../Code/Python/Fish C"
 		}
 	],
 	"settings": {}
